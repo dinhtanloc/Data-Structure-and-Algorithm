@@ -12,3 +12,5 @@ def find_length(s):
         ans = max(ans, right - left + 1)
     
     return ans
+
+print(find_length('10101101101'))
