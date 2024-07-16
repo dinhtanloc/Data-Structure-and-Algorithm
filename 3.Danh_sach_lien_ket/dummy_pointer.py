@@ -7,3 +7,5 @@ def get_sum(head):
     
     # same as before, but we still have a pointer at the head
     return ans
+
+#ds lien ket con tro rong
